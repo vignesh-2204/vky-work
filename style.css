@@ -68,3 +68,9 @@ input{
 	background-color: black;
 	color: white;
 }
+img{
+	transition: all 1s;
+}
+img:hover{
+	transform:scale(1.1);
+}
